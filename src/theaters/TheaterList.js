@@ -17,7 +17,7 @@ function TheaterList() {
   const list = theaters.map((theater) => (
     <Theater key={theater.theater_id} theater={theater} />
   ));
-
+  
   return (
     <main className="container">
       <ErrorAlert error={error} />

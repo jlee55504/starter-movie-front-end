@@ -15,7 +15,7 @@ function Theater({ theater }) {
           </address>
         </aside>
         <section className="col">
-          <div className="row">
+        <div className="row">
             {theater.movies.map((movie) => (
               <div key={movie.movie_id} className="col-2">
                 <Link to={`/movies/${movie.movie_id}`}>

@@ -2,6 +2,7 @@ import React from "react";
 import Review from "./Review";
 
 function ReviewList({ reviews = [], deleteReview, setReviewScore }) {
+  console.log(reviews)
   if (reviews.length) {
     const list = reviews
       .sort((leftReview, rightReview) => {
