@@ -4,7 +4,7 @@ The front-end of a web application that displays information on theaters, movies
 
 ## Features
 
-  - **Displays Correct Data:** The proper movies, theaters, and reviews information is shown when requested. 
+  - **Displays Correct Data:** The proper movies, theaters, and reviews information are shown when requested. 
   - **User-friendly Interface:** Aesthetically pleasing and easy to navigate interface. 
   - **Error Handling:** Robust error handling for enhanced reliability.
 
@@ -52,7 +52,7 @@ Upon running the application, you'll be presented with the home page options to:
   2. Display all the movies by clicking the link
   3. Display all the theaters by clicking the link
 
-Navigate through the options by clicking the corresponding buttons.
+Navigate through the application by clicking the corresponding buttons.
 
 ## Code Structure
 
