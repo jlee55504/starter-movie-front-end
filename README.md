@@ -22,11 +22,13 @@ The front-end of a web application that displays information on theaters, movies
 
 ## Getting Started
 
+### Prerequisites
+
   - Node Package Manager (NPM) 
 
 ### Installation
 
-1. Clone this repository.
+1. Clone this repository:
    ```
    git clone https://github.com/jlee55504/starter-movie-front-end.git
    ```
@@ -62,4 +64,4 @@ Navigate through the options by clicking the corresponding buttons.
 ## Acknowledgments
 
   - This project was built for the Chegg Skill's software engineering program
-  - This application helped me understand how to connect a database, a back-end, and a front-end application together.
+  - This application helped me understand how to connect a database, a back-end, and a front-end application together
