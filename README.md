@@ -12,7 +12,7 @@ The front-end of a web application that displays information on theaters, movies
 
   - **React.js:** Core programming language (React 17.0.1)
   - **Bootstrap:** Provides visually stylized React components
-  - **CSS:** Provides visual styling for the application
+  - **CSS:** Provides visual styling of the application
   - **HTML:** Visually displays the content of the application
   - **Jest:** Unit testing framework
 
@@ -28,22 +28,22 @@ The front-end of a web application that displays information on theaters, movies
 
 ### Installation
 
-1. Clone this repository:
-   ```
-   git clone https://github.com/jlee55504/starter-movie-front-end.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd starter-movie-front-end
-   ```
-3. Build the project:
-   ```
-   npm install
-   ```
-4. Run the application:
-   ```
-   npm start
-   ```
+  1. Clone this repository:
+     ```
+     git clone https://github.com/jlee55504/starter-movie-front-end.git
+     ```
+  2. Navigate to the project directory:
+     ```
+     cd starter-movie-front-end
+     ```
+  3. Build the project:
+     ```
+     npm install
+     ```
+  4. Run the application:
+     ```
+     npm start
+     ```
 
 ## Usage
 
