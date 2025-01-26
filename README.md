@@ -11,7 +11,7 @@ The front-end of a web application that displays information on theaters, movies
 ## Technologies Used
 
   - **React.js:** Core programming language (React 17.0.1)
-  - **Bootstrap:** Provides stylized React components
+  - **Bootstrap:** Provides visually stylized React components
   - **CSS:** Provides visual styling for the application
   - **HTML:** Visually displays the content of the application
   - **Jest:** Unit testing framework
@@ -64,4 +64,4 @@ Navigate through the application by clicking the corresponding buttons.
 ## Acknowledgments
 
   - This project was built for the Chegg Skill's software engineering program
-  - This application helped me understand how to connect a database, a back-end, and a front-end application together
+  - This project helped me understand how to connect a database, a back-end, and a front-end application together
