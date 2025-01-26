@@ -60,6 +60,7 @@ Navigate through the application by clicking the corresponding buttons.
   - ``src/movie:`` Displays all individual movie information
   - ``src/movies:`` Displays general information for every movie
   - ``src/theaters:`` Displays all theater information 
+  - ``src/imgs/:`` A folder containing the screenshot of the application
 
 ## Acknowledgments
 
